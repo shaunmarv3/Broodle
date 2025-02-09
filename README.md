@@ -1,0 +1,1 @@
+Just Did this to refurbish my nextjs skills
